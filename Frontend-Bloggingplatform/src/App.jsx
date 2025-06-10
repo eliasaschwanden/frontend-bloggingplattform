@@ -727,6 +727,7 @@ const BloggingPlatform = () => {
                         )}
                     </div>
 
+
                     {showMessageView ? (
                         <MessageView />
                     ) : (
